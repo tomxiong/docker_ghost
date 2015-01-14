@@ -1,5 +1,5 @@
-# Use tomxiong/docker_nodejs as base image. the latest version is for nodejs and io.js branch is for io.js
-FROM tomxiong/docker_nodejs:latest
+# Use tomxiong/docker-nodejs as base image. the latest version is for nodejs and io.js branch is for io.js
+FROM tomxiong/docker-nodejs:latest
 
 # Prepare install environment of Ghost
 	
